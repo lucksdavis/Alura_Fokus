@@ -1,4 +1,5 @@
-## Alura Fokus
+# Alura Fokus
+
 Bem-vindo(a) ao repositório **Alura Fokus**! Este projeto foi desenvolvido como parte dos cursos da Alura, com o objetivo de praticar e aprimorar habilidades em desenvolvimento front-end.
 
 ## 📋 Descrição do Projeto
